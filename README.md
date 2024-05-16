@@ -58,8 +58,8 @@ Display the results.
 
 ### Program
 ```
-Developed by:Samyuktha S
-Register Number:212222240089
+Developed by:PAVANA G
+Register Number:212222230105
 ```
 ```
 import cv2
